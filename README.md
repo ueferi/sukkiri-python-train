@@ -1,0 +1,2 @@
+# python_introduction_train
+スッキリわかるPython入門
